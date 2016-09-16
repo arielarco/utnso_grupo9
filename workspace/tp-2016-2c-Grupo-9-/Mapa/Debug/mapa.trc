@@ -1,0 +1,158 @@
+[TRACE] 10:35:28:201 mapa/(7244:7244): evalua argumentos
+[TRACE] 10:35:28:201 mapa/(7244:7244): proceso Mapa (Padre)
+[TRACE] 10:35:28:201 mapa/(7244:7244): crearSocketDeEscucha
+[TRACE] 10:38:12:491 mapa/(7324:7324): evalua argumentos
+[TRACE] 10:38:12:491 mapa/(7324:7324): proceso Mapa (Padre)
+[TRACE] 10:38:12:491 mapa/(7324:7324): crearSocketDeEscucha
+[TRACE] 10:39:11:324 mapa/(7324:7324): aceptarCliente
+[TRACE] 10:39:11:325 mapa/(7324:7324): Handshake
+[TRACE] 11:52:55:986 mapa/(3917:3917): evalua argumentos
+[TRACE] 11:52:55:987 mapa/(3917:3917): proceso Mapa (Padre)
+[TRACE] 11:52:55:987 mapa/(3917:3917): crearSocketDeEscucha
+[TRACE] 11:53:05:390 mapa/(3917:3917): aceptarCliente
+[TRACE] 11:53:05:390 mapa/(3917:3917): Handshake
+[TRACE] 12:06:08:937 mapa/(4172:4172): evalua argumentos
+[TRACE] 12:06:08:937 mapa/(4172:4172): proceso Mapa (Padre)
+[TRACE] 12:06:08:937 mapa/(4172:4172): crearSocketDeEscucha
+[TRACE] 12:06:33:171 mapa/(4172:4172): aceptarCliente
+[TRACE] 12:06:33:171 mapa/(4172:4172): Handshake
+[TRACE] 12:07:23:788 mapa/(4255:4255): evalua argumentos
+[TRACE] 12:07:23:788 mapa/(4255:4255): proceso Mapa (Padre)
+[TRACE] 12:07:23:789 mapa/(4255:4255): crearSocketDeEscucha
+[TRACE] 12:07:26:241 mapa/(4255:4255): aceptarCliente
+[TRACE] 12:07:26:241 mapa/(4255:4255): Handshake
+[TRACE] 12:07:26:241 mapa/(4255:4255): recv
+[TRACE] 12:07:54:690 mapa/(4294:4294): evalua argumentos
+[TRACE] 12:07:54:690 mapa/(4294:4294): proceso Mapa (Padre)
+[TRACE] 12:07:54:690 mapa/(4294:4294): crearSocketDeEscucha
+[TRACE] 12:07:56:486 mapa/(4294:4294): aceptarCliente
+[TRACE] 12:07:56:487 mapa/(4294:4294): Handshake
+[TRACE] 12:07:56:487 mapa/(4294:4294): recv
+[TRACE] 12:11:54:172 mapa/(4339:4339): evalua argumentos
+[TRACE] 12:11:54:173 mapa/(4339:4339): proceso Mapa (Padre)
+[TRACE] 12:11:54:173 mapa/(4339:4339): crearSocketDeEscucha
+[TRACE] 12:11:55:521 mapa/(4339:4339): aceptarCliente
+[TRACE] 12:11:55:521 mapa/(4339:4339): Handshake
+[TRACE] 12:11:55:521 mapa/(4339:4339): recv
+[TRACE] 12:15:27:555 mapa/(4437:4437): evalua argumentos
+[TRACE] 12:15:27:555 mapa/(4437:4437): proceso Mapa (Padre)
+[TRACE] 12:15:27:555 mapa/(4437:4437): crearSocketDeEscucha
+[TRACE] 12:15:30:604 mapa/(4437:4437): aceptarCliente
+[TRACE] 12:15:30:604 mapa/(4437:4437): Handshake
+[TRACE] 12:15:30:604 mapa/(4437:4437): recv
+[TRACE] 15:21:31:483 mapa/(5070:5070): evalua argumentos
+[TRACE] 15:21:31:483 mapa/(5070:5070): proceso Mapa (Padre)
+[TRACE] 15:21:31:483 mapa/(5070:5070): crearSocketDeEscucha
+[TRACE] 15:21:35:464 mapa/(5070:5070): aceptarCliente
+[TRACE] 15:21:35:464 mapa/(5070:5070): Handshake
+[TRACE] 15:21:35:464 mapa/(5070:5070): recv
+[TRACE] 15:22:19:266 mapa/(5124:5124): evalua argumentos
+[TRACE] 15:22:19:266 mapa/(5124:5124): proceso Mapa (Padre)
+[TRACE] 15:22:19:266 mapa/(5124:5124): crearSocketDeEscucha
+[TRACE] 15:22:21:946 mapa/(5124:5124): aceptarCliente
+[TRACE] 15:22:21:946 mapa/(5124:5124): Handshake
+[TRACE] 15:22:21:946 mapa/(5124:5124): recv
+[TRACE] 15:22:21:947 mapa/(5124:5124): entrenador.nombre=, entrenador.sock=-1217498308
+[TRACE] 15:38:27:614 mapa/(5475:5475): evalua argumentos
+[TRACE] 15:38:27:614 mapa/(5475:5475): proceso Mapa (Padre)
+[TRACE] 15:38:27:614 mapa/(5475:5475): crearSocketDeEscucha
+[TRACE] 15:38:30:433 mapa/(5475:5475): aceptarCliente
+[TRACE] 15:38:30:433 mapa/(5475:5475): Handshake
+[TRACE] 15:38:30:433 mapa/(5475:5475): recv
+[TRACE] 15:38:56:101 mapa/(5480:5480): evalua argumentos
+[TRACE] 15:38:56:102 mapa/(5480:5480): proceso Mapa (Padre)
+[TRACE] 15:38:56:102 mapa/(5480:5480): crearSocketDeEscucha
+[TRACE] 15:38:58:356 mapa/(5480:5480): aceptarCliente
+[TRACE] 15:38:58:356 mapa/(5480:5480): Handshake
+[TRACE] 15:38:58:356 mapa/(5480:5480): recv
+[TRACE] 15:40:26:174 mapa/(5536:5536): evalua argumentos
+[TRACE] 15:40:26:174 mapa/(5536:5536): proceso Mapa (Padre)
+[TRACE] 15:40:26:175 mapa/(5536:5536): crearSocketDeEscucha
+[TRACE] 15:40:28:121 mapa/(5536:5536): aceptarCliente
+[TRACE] 15:40:28:121 mapa/(5536:5536): Handshake
+[TRACE] 15:40:28:121 mapa/(5536:5536): recv
+[TRACE] 15:46:03:902 mapa/(5660:5660): evalua argumentos
+[TRACE] 15:46:03:902 mapa/(5660:5660): proceso Mapa (Padre)
+[TRACE] 15:46:03:902 mapa/(5660:5660): crearSocketDeEscucha
+[TRACE] 15:46:05:912 mapa/(5660:5660): aceptarCliente
+[TRACE] 15:46:05:912 mapa/(5660:5660): Handshake
+[TRACE] 15:46:05:912 mapa/(5660:5660): recv
+[TRACE] 15:51:02:606 mapa/(5796:5796): evalua argumentos
+[TRACE] 15:51:02:607 mapa/(5796:5796): proceso Mapa (Padre)
+[TRACE] 15:51:02:607 mapa/(5796:5796): crearSocketDeEscucha
+[TRACE] 15:51:04:562 mapa/(5796:5796): aceptarCliente
+[TRACE] 15:51:04:562 mapa/(5796:5796): Handshake
+[TRACE] 15:51:04:562 mapa/(5796:5796): recv
+[TRACE] 15:57:23:907 mapa/(5928:5928): evalua argumentos
+[TRACE] 15:57:23:907 mapa/(5928:5928): proceso Mapa (Padre)
+[TRACE] 15:57:23:907 mapa/(5928:5928): crearSocketDeEscucha
+[TRACE] 15:57:25:610 mapa/(5928:5928): aceptarCliente
+[TRACE] 15:57:25:610 mapa/(5928:5928): Handshake
+[TRACE] 15:57:25:610 mapa/(5928:5928): recv
+[TRACE] 15:57:25:610 mapa/(5928:5928): entrenador.nombre=, entrenador.sock=-1216744644
+[TRACE] 15:57:46:794 mapa/(5962:5962): evalua argumentos
+[TRACE] 15:57:46:795 mapa/(5962:5962): proceso Mapa (Padre)
+[TRACE] 15:57:46:795 mapa/(5962:5962): crearSocketDeEscucha
+[TRACE] 15:57:47:866 mapa/(5962:5962): aceptarCliente
+[TRACE] 15:57:47:866 mapa/(5962:5962): Handshake
+[TRACE] 15:57:47:866 mapa/(5962:5962): recv
+[TRACE] 15:57:47:867 mapa/(5962:5962): entrenador.nombre=(null), entrenador.sock=0
+[TRACE] 16:04:34:7 mapa/(6268:6268): evalua argumentos
+[TRACE] 16:04:34:7 mapa/(6268:6268): proceso Mapa (Padre)
+[TRACE] 16:04:34:7 mapa/(6268:6268): crearSocketDeEscucha
+[TRACE] 16:04:35:757 mapa/(6268:6268): aceptarCliente
+[TRACE] 16:04:35:757 mapa/(6268:6268): Handshake
+[TRACE] 16:04:35:757 mapa/(6268:6268): recv
+[TRACE] 16:21:44:579 mapa/(6621:6621): evalua argumentos
+[TRACE] 16:21:44:579 mapa/(6621:6621): proceso Mapa (Padre)
+[TRACE] 16:21:44:579 mapa/(6621:6621): crearSocketDeEscucha
+[TRACE] 16:21:46:314 mapa/(6621:6621): aceptarCliente
+[TRACE] 16:21:46:314 mapa/(6621:6621): Handshake
+[TRACE] 16:21:46:460 mapa/(6621:6621): entrenador.nombre=, entrenador.sock=0
+[TRACE] 16:22:36:217 mapa/(6675:6675): evalua argumentos
+[TRACE] 16:22:36:217 mapa/(6675:6675): proceso Mapa (Padre)
+[TRACE] 16:22:36:218 mapa/(6675:6675): crearSocketDeEscucha
+[TRACE] 16:22:38:758 mapa/(6675:6675): aceptarCliente
+[TRACE] 16:22:38:758 mapa/(6675:6675): Handshake
+[TRACE] 16:23:04:26 mapa/(6713:6713): evalua argumentos
+[TRACE] 16:23:04:27 mapa/(6713:6713): proceso Mapa (Padre)
+[TRACE] 16:23:04:27 mapa/(6713:6713): crearSocketDeEscucha
+[TRACE] 16:23:05:662 mapa/(6713:6713): aceptarCliente
+[TRACE] 16:23:05:662 mapa/(6713:6713): Handshake
+[TRACE] 16:23:05:797 mapa/(6713:6713): Llego el buffer
+[TRACE] 16:28:54:782 mapa/(7060:7060): evalua argumentos
+[TRACE] 16:28:54:783 mapa/(7060:7060): proceso Mapa (Padre)
+[TRACE] 16:28:54:783 mapa/(7060:7060): crearSocketDeEscucha
+[TRACE] 16:28:56:115 mapa/(7060:7060): aceptarCliente
+[TRACE] 16:28:56:115 mapa/(7060:7060): Handshake
+[TRACE] 16:28:56:263 mapa/(7060:7060): Llego el buffer
+[TRACE] 16:28:56:263 mapa/(7060:7060): entrenador.nombre=, entrenador.sock=0
+[TRACE] 16:29:02:866 mapa/(7060:7060): aceptarCliente
+[TRACE] 16:29:02:866 mapa/(7060:7060): Handshake
+[TRACE] 16:29:03:13 mapa/(7060:7060): Llego el buffer
+[TRACE] 16:29:03:13 mapa/(7060:7060): entrenador.nombre=, entrenador.sock=0
+[TRACE] 16:29:26:267 mapa/(7106:7106): evalua argumentos
+[TRACE] 16:29:26:267 mapa/(7106:7106): proceso Mapa (Padre)
+[TRACE] 16:29:26:268 mapa/(7106:7106): crearSocketDeEscucha
+[TRACE] 16:29:28:364 mapa/(7106:7106): aceptarCliente
+[TRACE] 16:29:28:364 mapa/(7106:7106): Handshake
+[TRACE] 16:29:28:364 mapa/(7106:7106): Llego el buffer
+[TRACE] 16:29:28:365 mapa/(7106:7106): entrenador.nombre=Jhon, entrenador.sock=0
+[TRACE] 17:14:11:842 mapa/(7793:7793): evalua argumentos
+[TRACE] 17:14:15:287 mapa/(7794:7794): evalua argumentos
+[TRACE] 17:14:15:287 mapa/(7794:7794): proceso Mapa (Padre)
+[TRACE] 17:14:15:288 mapa/(7794:7794): crearSocketDeEscucha
+[TRACE] 17:14:16:289 mapa/(7794:7794): looopeeaaaaa.....
+[TRACE] 17:15:42:13 mapa/(7841:7841): evalua argumentos
+[TRACE] 17:15:42:14 mapa/(7841:7841): proceso Mapa (Padre)
+[TRACE] 17:15:42:14 mapa/(7841:7841): crearSocketDeEscucha
+[TRACE] 17:15:43:15 mapa/(7841:7841): looopeeaaaaa.....
+[TRACE] 17:16:03:468 mapa/(7878:7878): evalua argumentos
+[TRACE] 17:16:03:468 mapa/(7878:7878): proceso Mapa (Padre)
+[TRACE] 17:16:03:468 mapa/(7878:7878): crearSocketDeEscucha
+[TRACE] 17:16:04:469 mapa/(7878:7878): looopeeaaaaa.....
+[TRACE] 17:16:30:112 mapa/(7878:7878): aceptarCliente
+[TRACE] 17:16:30:112 mapa/(7878:7878): Handshake
+[TRACE] 17:16:30:113 mapa/(7878:7878): Llego el buffer
+[TRACE] 17:16:30:113 mapa/(7878:7878): entrenador.nombre=Jose, entrenador.sock=0
+[TRACE] 17:16:31:114 mapa/(7878:7878): looopeeaaaaa.....
