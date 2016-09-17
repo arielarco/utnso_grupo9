@@ -10,6 +10,51 @@
 #include "libreriaMapa.h"
 #include <commons/collections/queue.h>
 
+void iniciarMapa () {
+	items = list_create();
+	nivel_gui_inicializar();
+	nivel_gui_get_area_nivel(&rows, &cols);
+
+	//CrearPersonaje(items, '#', x, y);???
+
+	//CrearEnemigo(items, '1', ex1, ey1);???
+
+	// Corresponden a los pokemones/recursos del mapa
+	CrearCaja(items, 'P', 26, 10, 5);
+	CrearCaja(items, 'B', 11, 20, 2);
+	CrearCaja(items, 'C', 5, 26, 3);
+
+	//t_list* items = list_create();
+
+	//MoverPersonaje(items, '1', ex1, ey1 );
+
+	//nivel_gui_dibujar(items, "Test Chamber 04");
+
+	//BorrarItem(items, 'H');
+	//nivel_gui_terminar();
+
+}
+
+
+
+
+
+void cargarArchivoConfiguracion(tConfig config, char* ruta) {
+
+	//CREAMOS EL ARCHIVO DE CONFIGURACION
+	t_config* configuracion = config_create(ruta);
+
+	nombreMapa = config_get_string_value(configuracion,"NOMBRE_MAPA");
+	//puertoMapa = config_get_int_value(configuracion, "PUERTO_MAPA");
+
+	config.algoritmo = config_get_string_value(configuracion,"ALGORITMO");
+	config.batalla = config_get_int_value(configuracion,"BATALLA");
+	config.ip = config_get_string_value(configuracion,"IP");
+	config.puerto = config_get_int_value(configuracion,"PUERTO");
+	config.quantum = config_get_int_value(configuracion,"QUANTUM");
+	config.retardo = config_get_int_value(configuracion,"RETARDO");
+	config.tiempoChequeoDeadlock = config_get_int_value(configuracion,"TIEMPOCHEQUEODEADLOCK");
+}
 
 void mostrarArchivoConfiguracion()
 {
@@ -34,6 +79,9 @@ void procesoPlanificador(char* algoritmo) {
 
 void escucharEntrenador(void* socketEntrenador)
 {
+	close(pipeMaE[1]);
+	close(pipeEaM[0]);
+
 	//Casteo socket_Entrenador
 	int socket_Entrenador = (int) socketEntrenador;
 	if ((socket_Entrenador) == -1)

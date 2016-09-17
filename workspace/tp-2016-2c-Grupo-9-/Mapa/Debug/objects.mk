@@ -4,5 +4,5 @@
 
 USER_OBJS :=
 
-LIBS := -lcommons -lpthread -lcurses -lnivel-gui -lbiblioteca
+LIBS := -lcommons -lpthread -lnivel-gui -lcurses -lbiblioteca
 

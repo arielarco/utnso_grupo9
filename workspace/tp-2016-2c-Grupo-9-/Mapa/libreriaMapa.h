@@ -48,9 +48,19 @@ tConfig config;
 int puertoMapa;
 char* nombreMapa;
 
+int rows, cols;
+
+t_list* items;
+
+void iniciarMapa ();
+
+void cargarArchivoConfiguracion(tConfig config, char* ruta);
+
 void mostrarArchivoConfiguracion();
 
 void procesoPlanificador(char* algoritmo);
+
+int pipeMaE[2], pipeEaM[2];
 
 void escucharEntrenador(void* socketCliente);
 

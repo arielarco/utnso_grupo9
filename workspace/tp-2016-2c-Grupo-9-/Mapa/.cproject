@@ -33,8 +33,8 @@
 								<option id="gnu.c.link.option.libs.1800491907" name="Libraries (-l)" superClass="gnu.c.link.option.libs" valueType="libs">
 									<listOptionValue builtIn="false" value="commons"/>
 									<listOptionValue builtIn="false" value="pthread"/>
-									<listOptionValue builtIn="false" value="curses"/>
 									<listOptionValue builtIn="false" value="nivel-gui"/>
+									<listOptionValue builtIn="false" value="curses"/>
 									<listOptionValue builtIn="false" value="biblioteca"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.linker.input.1295128500" superClass="cdt.managedbuild.tool.gnu.c.linker.input">

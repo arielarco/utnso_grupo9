@@ -1,4 +1,4 @@
-#include "sockets.h"
+#include "socket.h"
 #include "enum.h"
 
 int conectarAServidor(char* ipServidor, int puertoServidor) {
